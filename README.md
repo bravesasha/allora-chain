@@ -1,6 +1,6 @@
 # Allora Network
 <p align="center">
-<img src='assets/AlloraLogo.jpeg' width='200'>
+<img src='assets/AlloraLogo.jpeg' width='200'>k
 <a href="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
     <img src="https://goreportcard.com/badge/github.com/allora-network/allora-chain">
 </a>
